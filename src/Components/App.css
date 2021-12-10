@@ -1,0 +1,16 @@
+* {
+     margin :0px;
+     padding :10px;
+     box-sizing:border-box;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Container {
+    background: url("./Images/bgimg.jfif");
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
